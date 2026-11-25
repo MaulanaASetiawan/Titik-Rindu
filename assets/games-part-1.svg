@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="100%" height="auto" role="img" aria-label="Galeri Mini-Game 01 sampai 04">
+  <rect width="1200" height="500" fill="#FAF6EE" />
+
+  <!-- GAME 01: LABIRIN JALAN KELUAR -->
+  <g transform="translate(24, 20)">
+    <rect x="6" y="6" width="556" height="214" fill="#111111" />
+    <rect x="0" y="0" width="556" height="214" fill="#FFFFFF" stroke="#111111" stroke-width="3.5" />
+    <rect x="0" y="0" width="556" height="44" fill="#B8FF01" stroke="#111111" stroke-width="3.5" />
+    <rect x="12" y="9" width="40" height="26" fill="#111111" />
+    <text x="22" y="27" font-family="'Courier New', monospace" font-size="13" font-weight="700" fill="#B8FF01">01</text>
+    <text x="64" y="28" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="800" fill="#111111">LABIRIN JALAN KELUAR</text>
+    <rect x="442" y="9" width="100" height="26" fill="#FFFFFF" stroke="#111111" stroke-width="2" />
+    <text x="452" y="26" font-family="'Courier New', monospace" font-size="11" font-weight="700" fill="#111111">1-12 PEMAIN</text>
+
+    <!-- Mini Maze Grid Graphic -->
+    <g transform="translate(18, 60)">
+      <rect x="0" y="0" width="172" height="136" fill="#111111" stroke="#111111" stroke-width="2.5" />
+      <rect x="12" y="12" width="148" height="24" fill="#FAF6EE" />
+      <rect x="12" y="36" width="24" height="88" fill="#FAF6EE" />
+      <rect x="36" y="60" width="98" height="24" fill="#FAF6EE" />
+      <rect x="110" y="84" width="50" height="40" fill="#FAF6EE" />
+      <circle cx="24" cy="24" r="9" fill="#FFE600" stroke="#111111" stroke-width="2" />
+      <rect x="118" y="62" width="20" height="20" fill="#FF66C4" stroke="#111111" stroke-width="2" />
+      <text x="123" y="77" font-family="sans-serif" font-size="12">⚡</text>
+      <rect x="134" y="98" width="22" height="22" fill="#B8FF01" stroke="#111111" stroke-width="2" />
+      <text x="138" y="113" font-family="'Courier New', monospace" font-size="10" font-weight="700" fill="#111111">GO</text>
+    </g>
+
+    <g transform="translate(204, 66)">
+      <text x="0" y="17" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="800" fill="#111111">Misi 1-2-3: Switch → Kunci → Pintu EXIT!</text>
+      <text x="0" y="42" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#333333">• Kompas otomatis penunjuk arah &amp; langkah</text>
+      <text x="0" y="65" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#333333">• Portal Warp, Permata (+25 PTS) &amp; Obor 7s</text>
+      <text x="0" y="88" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#333333">• Keyboard (WASD/Panah) &amp; D-Pad sentuh HP</text>
+      <rect x="0" y="104" width="220" height="26" fill="#FFE600" stroke="#111111" stroke-width="2" />
+      <text x="10" y="121" font-family="'Courier New', monospace" font-size="11" font-weight="700" fill="#111111">MODE SENTER (FOG OF WAR)</text>
+    </g>
+  </g>
+
+  <!-- GAME 02: FREKUENSI HATI DIAL -->
+  <g transform="translate(616, 20)">
+    <rect x="6" y="6" width="556" height="214" fill="#111111" />
+    <rect x="0" y="0" width="556" height="214" fill="#FFFFFF" stroke="#111111" stroke-width="3.5" />
+    <rect x="0" y="0" width="556" height="44" fill="#FF66C4" stroke="#111111" stroke-width="3.5" />
+    <rect x="12" y="9" width="40" height="26" fill="#111111" />
+    <text x="22" y="27" font-family="'Courier New', monospace" font-size="13" font-weight="700" fill="#FF66C4">02</text>
+    <text x="64" y="28" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="800" fill="#111111">FREKUENSI HATI DIAL</text>
+    <rect x="442" y="9" width="100" height="26" fill="#FFFFFF" stroke="#111111" stroke-width="2" />
+    <text x="452" y="26" font-family="'Courier New', monospace" font-size="11" font-weight="700" fill="#111111">2-12 PEMAIN</text>
+
+    <!-- Mini Dial Gauge Graphic -->
+    <g transform="translate(18, 60)">
+      <rect x="0" y="0" width="172" height="136" fill="#FAF6EE" stroke="#111111" stroke-width="2.5" />
+      <path d="M 22 106 A 64 64 0 0 1 150 106" fill="#FFFFFF" stroke="#111111" stroke-width="3" />
+      <path d="M 94 43 A 64 64 0 0 1 130 60 L 86 106 Z" fill="#FFE600" stroke="#111111" stroke-width="1.5" />
+      <path d="M 104 46 A 64 64 0 0 1 120 53 L 86 106 Z" fill="#B8FF01" stroke="#111111" stroke-width="1.5" />
+      <line x1="86" y1="106" x2="113" y2="52" stroke="#FF4D4D" stroke-width="4" stroke-linecap="round" />
+      <circle cx="86" cy="106" r="8" fill="#111111" />
+      <text x="16" y="126" font-family="'Courier New', monospace" font-size="10" font-weight="700" fill="#111111">DINGIN</text>
+      <text x="122" y="126" font-family="'Courier New', monospace" font-size="10" font-weight="700" fill="#111111">PANAS</text>
+    </g>
+
+    <g transform="translate(204, 66)">
+      <text x="0" y="17" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="800" fill="#111111">Seberapa sefrekuensi pikiran kalian?</text>
+      <text x="0" y="42" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#333333">• 1 Pemberi Sinyal memberi clue di antara 2 kutub</text>
+      <text x="0" y="65" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#333333">• Penebak memutar jarum analog (0°–180°) live</text>
+      <text x="0" y="88" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#333333">• Bisa buat spektrum kuis sendiri di Studio Bahasa</text>
+      <rect x="0" y="104" width="215" height="26" fill="#B8FF01" stroke="#111111" stroke-width="2" />
+      <text x="10" y="121" font-family="'Courier New', monospace" font-size="11" font-weight="700" fill="#111111">BULLSEYE ZONA +100 POIN</text>
+    </g>
+  </g>
+
+  <!-- GAME 03: TEBAK LAGU LIVE -->
+  <g transform="translate(24, 260)">
+    <rect x="6" y="6" width="556" height="214" fill="#111111" />
+    <rect x="0" y="0" width="556" height="214" fill="#FFFFFF" stroke="#111111" stroke-width="3.5" />
+    <rect x="0" y="0" width="556" height="44" fill="#00E5FF" stroke="#111111" stroke-width="3.5" />
+    <rect x="12" y="9" width="40" height="26" fill="#111111" />
+    <text x="22" y="27" font-family="'Courier New', monospace" font-size="13" font-weight="700" fill="#00E5FF">03</text>
+    <text x="64" y="28" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="800" fill="#111111">TEBAK LAGU LIVE (30 DETIK)</text>
+    <rect x="442" y="9" width="100" height="26" fill="#FFFFFF" stroke="#111111" stroke-width="2" />
+    <text x="452" y="26" font-family="'Courier New', monospace" font-size="11" font-weight="700" fill="#111111">1-12 PEMAIN</text>
+
+    <!-- Mini Vinyl Deck Graphic -->
+    <g transform="translate(18, 60)">
+      <rect x="0" y="0" width="172" height="136" fill="#FAF6EE" stroke="#111111" stroke-width="2.5" />
+      <circle cx="50" cy="54" r="33" fill="#111111" />
+      <circle cx="50" cy="54" r="11" fill="#FFE600" stroke="#111111" stroke-width="2" />
+      <rect x="92" y="24" width="68" height="24" fill="#FFE600" stroke="#111111" stroke-width="2" />
+      <text x="99" y="40" font-family="'Courier New', monospace" font-size="10" font-weight="700" fill="#111111">16S LEFT</text>
+      <rect x="92" y="56" width="68" height="24" fill="#B8FF01" stroke="#111111" stroke-width="2" />
+      <text x="102" y="72" font-family="'Courier New', monospace" font-size="10" font-weight="700" fill="#111111">▶ PLAY</text>
+      <rect x="12" y="100" width="148" height="22" fill="#B8FF01" stroke="#111111" stroke-width="2" />
+      <text x="18" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="800" fill="#111111">✓ Hati-Hati di Jalan</text>
+    </g>
+
+    <g transform="translate(204, 66)">
+      <text x="0" y="17" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="800" fill="#111111">Adu cepat tebak preview 30 detik (4 opsi)!</text>
+      <text x="0" y="42" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#333333">• 13 Kategori: Indo, Lawas, Global, K-Pop, J-Pop</text>
+      <text x="0" y="65" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#333333">• Keranjang Bareng: semua bisa patungan artis</text>
+      <text x="0" y="88" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#333333">• Mode Giliran DJ berganti pemilih tiap sesi</text>
+      <rect x="0" y="104" width="230" height="26" fill="#00E5FF" stroke="#111111" stroke-width="2" />
+      <text x="10" y="121" font-family="'Courier New', monospace" font-size="11" font-weight="700" fill="#111111">KERANJANG ARTIS BERSAMA</text>
+    </g>
+  </g>
+
+  <!-- GAME 04: DUEL POPULARITAS -->
+  <g transform="translate(616, 260)">
+    <rect x="6" y="6" width="556" height="214" fill="#111111" />
+    <rect x="0" y="0" width="556" height="214" fill="#FFFFFF" stroke="#111111" stroke-width="3.5" />
+    <rect x="0" y="0" width="556" height="44" fill="#FFE600" stroke="#111111" stroke-width="3.5" />
+    <rect x="12" y="9" width="40" height="26" fill="#111111" />
+    <text x="22" y="27" font-family="'Courier New', monospace" font-size="13" font-weight="700" fill="#FFE600">04</text>
+    <text x="64" y="28" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="800" fill="#111111">DUEL POPULARITAS MUSIK</text>
+    <rect x="442" y="9" width="100" height="26" fill="#FFFFFF" stroke="#111111" stroke-width="2" />
+    <text x="452" y="26" font-family="'Courier New', monospace" font-size="11" font-weight="700" fill="#111111">1-12 PEMAIN</text>
+
+    <!-- Mini VS Card Graphic -->
+    <g transform="translate(18, 60)">
+      <rect x="0" y="0" width="172" height="136" fill="#FAF6EE" stroke="#111111" stroke-width="2.5" />
+      <rect x="10" y="12" width="68" height="112" fill="#B8FF01" stroke="#111111" stroke-width="2" />
+      <text x="22" y="50" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="800" fill="#111111">TULUS</text>
+      <text x="15" y="76" font-family="'Courier New', monospace" font-size="10.5" font-weight="700" fill="#111111">890K FANS</text>
+
+      <rect x="94" y="12" width="68" height="112" fill="#FFFFFF" stroke="#111111" stroke-width="2" />
+      <text x="106" y="50" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="800" fill="#111111">HINDIA</text>
+      <text x="103" y="76" font-family="'Courier New', monospace" font-size="11" font-weight="700" fill="#FF4D4D">??? FANS</text>
+
+      <circle cx="86" cy="68" r="14" fill="#111111" />
+      <text x="78" y="72" font-family="'Courier New', monospace" font-size="10.5" font-weight="700" fill="#FFE600">VS</text>
+    </g>
+
+    <g transform="translate(204, 66)">
+      <text x="0" y="17" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="800" fill="#111111">Tebak siapa yang punya fans lebih tinggi!</text>
+      <text x="0" y="42" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#333333">• 2 Mode: Duel Fans Artis vs Duel Hits Lagu</text>
+      <text x="0" y="65" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#333333">• Dilengkapi foto &amp; tombol putar preview lagu</text>
+      <text x="0" y="88" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#333333">• Bisa adu antar artis favorit pilihan kalian</text>
+      <rect x="0" y="104" width="225" height="26" fill="#FFE600" stroke="#111111" stroke-width="2" />
+      <text x="10" y="121" font-family="'Courier New', monospace" font-size="11" font-weight="700" fill="#111111">DUEL ARTIS &amp; DUEL LAGU</text>
+    </g>
+  </g>
+</svg>
